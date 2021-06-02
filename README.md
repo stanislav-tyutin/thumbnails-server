@@ -19,6 +19,8 @@ Ruby 2.7.1
 
 `PUMA_WORKERS=1`
 
+`RACK_ENV=production`
+
 ### Database and migrations
 None
 
