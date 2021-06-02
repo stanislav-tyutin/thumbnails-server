@@ -1,14 +1,14 @@
-#Simple thumbnails server
+# Simple thumbnails server
 
-##Setup
+## Setup
 
-###Ruby version
+### Ruby version
 Ruby 2.7.1
 
-###Gem installation
+### Gem installation
 `bundle install`
 
-###ENVs
+### ENVs
 `PUBLIC_DIR=/tmp/public` - absolute path to public directory (must be writeable)
 
 `PUBLIC_URL=https://example.com/public` - url to public directory
@@ -19,10 +19,10 @@ Ruby 2.7.1
 
 `PUMA_WORKERS=1`
 
-###Database and migrations
+### Database and migrations
 None
 
-###External dependencies
+### External dependencies
 `ffmpeg`
 
 ## Run
